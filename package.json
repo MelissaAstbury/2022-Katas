@@ -1,0 +1,13 @@
+{
+  "name": "2022-katas",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
+}
