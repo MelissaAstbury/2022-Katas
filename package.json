@@ -8,6 +8,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jest": "^27.4.7"
+    "jest": "^27.4.7",
+    "node-test": "^1.4.6"
   }
 }
