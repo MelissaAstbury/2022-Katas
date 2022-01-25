@@ -3,7 +3,6 @@ const loopTerminals = (terminals) => {
     let terminalName = terminals.map(terminal => terminal.name)
     terminalName.forEach(name => {
         if(name === null || "") {
-            console.log(name)
             result = true;
         };
     });

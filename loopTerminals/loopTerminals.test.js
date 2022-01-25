@@ -1,6 +1,6 @@
 const loopTerminals = require('./loopTerminals')
 
-describe('reverseWords', () => {
+describe('loopTerminals', () => {
     it('return true if termianl name is null', () => {
       const actual = loopTerminals([ 
     {
